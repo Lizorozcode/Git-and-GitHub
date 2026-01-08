@@ -1,4 +1,6 @@
 # Introduction to Git and GitHub
+#Names: Elizabeth Orozco and Georgia Vasey GitHub repo
+
 
 Welcome! Today's assignment will walk you through using Git, GitHub, RStudio to interact with both, and, along the way, practice using Quarto and RStudio. Cool! The content has been adapted from a [workshop](https://rstudio-conf-2020.github.io/r-for-excel/github.html) that Openscapes developed.
 
